@@ -7,15 +7,15 @@ for (int i = 0; i < 4; i++)
 
 Console.WriteLine("[" + string.Join(",", array) + "]");   
 
-for (int i = 0; i < 4; i++);
+for (int i = 0; i < 4; i++)
 {
-    if (array[i] < min);
+    if (array[i]<min)
     min = array[i];
 }
 
-for (int i = 0; i < 4; i++);
+for (int i = 0; i < 4; i++)
 {
-    if (array[i] > max);
+    if (array[i]>max)
     max = array[i];
 }
 
